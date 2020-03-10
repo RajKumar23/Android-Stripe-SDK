@@ -2,6 +2,17 @@
 
 Refer [Stripe](https://stripe.com/docs/payments/accept-a-payment#android)
 
+## Preview
+1. Make Payment
+<img src="Reference/MakePayment.gif" width="350" height="650" />   
+
+2. Pre Built UI
+<img src="Reference/PreBuiltUI.gif" width="350" height="650" />
+
+3. Manage Card
+<img src="Reference/ManageCard.gif" width="350" height="650" />
+
+
 In Gradle File -> Add this 
 
 
